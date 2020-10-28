@@ -1,9 +1,9 @@
 import About from './about';
-import BlogPostList from './blog-post-list';
+import Portfolio from './portfolio';
 import Welcome from './welcome';
 
 export {
   About,
-  BlogPostList,
+  Portfolio,
   Welcome,
 };

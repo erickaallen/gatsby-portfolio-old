@@ -1,19 +1,19 @@
-import { FaGithub } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const content = {
-  title: 'About.',
-  subtitle: 'Find out more on Github',
+  title: 'About',
+  subtitle: '',
   links: [
     {
-      to: 'https://github.com/chronisp',
-      text: 'chronisp',
+      to: 'https://github.com/erickaallen',
+      text: 'erickaallen',
       Icon: FaGithub,
       newTab: true,
     },
     {
-      to: 'https://github.com/chronisp/gatsby-starter',
-      text: 'Gatsby Starter',
-      Icon: FaGithub,
+      to: 'https://www.linkedin.com/in/erickaallen/',
+      text: 'Ericka Allen',
+      Icon: FaLinkedin,
       newTab: true,
     },
   ],

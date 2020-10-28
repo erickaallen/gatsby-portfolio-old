@@ -1,6 +1,6 @@
 const options = [
   { to: '/', text: 'Home' },
-  { to: '/blog/', text: 'Blog' },
+  { to: '/portfolio/', text: 'Portfolio' },
   { to: '/about/', text: 'About' },
 ];
 

@@ -10,7 +10,7 @@ type Props = {
   data: Object,
 };
 
-const BlogPost = ({ classes, data }: Props) => (
+const Portfolio = ({ classes, data }: Props) => (
   <div className={classes.container}>
     {data.heroImage ? <Img fluid={data.heroImage.fluid} /> : null}
     <Typography variant='h2' color='textPrimary'>
@@ -25,4 +25,4 @@ const BlogPost = ({ classes, data }: Props) => (
   </div>
 );
 
-export default withStyles(styles)(BlogPost);
+export default withStyles(styles)(Portfolio);
