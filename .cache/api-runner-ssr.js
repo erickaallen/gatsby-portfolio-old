@@ -1,19 +1,4 @@
-var plugins = [{
-      plugin: require('/Users/erickaallen/repos/erickaallen.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/erickaallen/repos/erickaallen.github.io/node_modules/gatsby-plugin-material-ui/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/erickaallen/repos/erickaallen.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Gatsby Starter","short_name":"Gatsby Starter","start_url":"/","background_color":"black","theme_color":"black","display":"minimal-ui","icon":"src/images/favicon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"58034edeb8b3d851b16e0f00dfcb6bf2"},
-    },{
-      plugin: require('/Users/erickaallen/repos/erickaallen.github.io/node_modules/gatsby-plugin-react-redux/gatsby-ssr'),
-      options: {"plugins":[],"pathToCreateStoreModule":"./src/state/store","serialize":{"space":0,"isJSON":true,"unsafe":false}},
-    },{
-      plugin: require('/Users/erickaallen/repos/erickaallen.github.io/gatsby-ssr'),
-      options: {"plugins":[]},
-    }]
+var plugins = []
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
 //   {

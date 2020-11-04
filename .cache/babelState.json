@@ -21,10 +21,6 @@
       ],
       "presets": [
         {
-          "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-flow/lib/index.js",
-          "options": {}
-        },
-        {
           "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": []
@@ -56,10 +52,6 @@
         }
       ],
       "presets": [
-        {
-          "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-flow/lib/index.js",
-          "options": {}
-        },
         {
           "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
@@ -93,10 +85,6 @@
       ],
       "presets": [
         {
-          "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-flow/lib/index.js",
-          "options": {}
-        },
-        {
           "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": []
@@ -128,10 +116,6 @@
         }
       ],
       "presets": [
-        {
-          "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-flow/lib/index.js",
-          "options": {}
-        },
         {
           "name": "/Users/erickaallen/repos/erickaallen.github.io/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
